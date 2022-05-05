@@ -1,4 +1,3 @@
-#set(VCPKG_TARGET_TRIPLET "x64-osx-gcc" CACHE STRING "")
 cmake_minimum_required(VERSION 3.21)
 project(foundation CXX)
 set(CMAKE_CXX_STANDARD 20)
